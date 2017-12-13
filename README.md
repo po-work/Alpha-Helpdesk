@@ -20,3 +20,8 @@ frmMainStaffLvl1.vb - This is the form for all customer service staff, this allo
 frmMainStaffLvl2.vb - This is the form for the database administrator. This form allows them to change the MySQL server details (Server IP, Server Port, MySQL username & password). They can also view all table contents as well as generate new staff registration codes and create new versions of tables and the database itself.
 
 Icon.ico - This file is just a copy of the icon for the program.
+
+
+THIS PROGRAM WILL NOT WORK WITH JUST THESE FILES THIS IS JUST TO DISPLAY MY CODE
+
+If you want a working copy, they just drop me a private message.
