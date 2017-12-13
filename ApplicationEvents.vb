@@ -29,7 +29,7 @@ Namespace My
                 MessageBox.Show("Error: " & ex.Message)
             Finally
                 con.Close()
-            End Try
+        End Try
             'Create Users Table
             Try
                 con.ConnectionString = ("server=" & mysqlserver & ";Port=" & mysqlport & ";userid=" & mysqluser & ";password=" & mysqlpassword & ";database=main;")
