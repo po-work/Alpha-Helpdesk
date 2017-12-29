@@ -24,4 +24,4 @@ Icon.ico - This file is just a copy of the icon for the program.
 
 THIS PROGRAM WILL NOT WORK WITH JUST THESE FILES THIS IS JUST TO DISPLAY MY CODE
 
-If you want a working copy, they just drop me a private message.
+If you want a working copy, then just drop me a private message.
